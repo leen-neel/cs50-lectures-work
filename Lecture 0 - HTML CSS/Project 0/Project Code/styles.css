@@ -1,0 +1,19 @@
+.container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.container img {
+  margin-top: 100px;
+}
+.container .search-bar {
+  margin-top: 50px;
+}
+
+.buttons {
+  padding-left: 200px;
+}
+
+/*# sourceMappingURL=styles.css.map */

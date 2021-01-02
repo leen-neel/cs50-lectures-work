@@ -1,0 +1,31 @@
+%message {
+
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid black;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center
+
+}
+
+.success {
+
+    @extend %message;
+    background-color: green;
+
+}
+
+.error {
+
+    @extend %message;
+    background-color: red;
+
+}
+
+.info {
+
+    @extend %message;
+    background-color: orange;
+
+}
